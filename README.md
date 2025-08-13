@@ -9,7 +9,8 @@
 - Lógica de Programação  
 - Fundamentos de Redes  
 
-📫 Contato: [E-mail] (malito:rsalles200629@gmail.com) 
+📫 Contato: 
+- ✉️ [E-mail](mailto:rsalles200629@gmail.com)
 
 ---
 ⭐ Aqui você vai encontrar meus projetos e aprendizados na área de TI!
