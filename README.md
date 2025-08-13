@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou [Nome da Prima]  
+# Olá! 👋 Eu sou Raqueli Salles
 
 🎓 Estudante de *Tecnologia da Informação* no Instituto Federal de Ciência e Tecnologia do Amazonas (IFAM).  
 💻 Aprendendo sobre *programação, redes e banco de dados*.  
