@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá! 👋 Eu sou [Nome da Prima]  
 
-<!--
-**Raqueli-S/Raqueli-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de *Tecnologia da Informação* no Instituto Federal de Ciência e Tecnologia do Amazonas (IFAM).  
+💻 Aprendendo sobre *programação, redes e banco de dados*.  
+📚 Sempre curiosa para explorar novas tecnologias.  
 
-Here are some ideas to get you started:
+🌱 Atualmente estudando:  
+- HTML, CSS e JavaScript  
+- Lógica de Programação  
+- Fundamentos de Redes  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contato: [E-mail](malito:rsalles200629@gmail.com) 
+
+---
+⭐ Aqui você vai encontrar meus projetos e aprendizados na área de TI!
